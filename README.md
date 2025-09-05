@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+<img width="1891" height="871" alt="image" src="https://github.com/user-attachments/assets/8f34daf3-a31f-43b2-ac65-99b666565b8f" />
